@@ -2,17 +2,22 @@
     padding: 48px 24px 48px 24px;
     margin-left: auto;
     margin-right: auto;
-
+    
 }
 
 .footer {
     background-color: #659f8f;
+
 }
 
-.image-container {
+hr {
+    width: 100%;
+}
+.text-container {
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    border: 2px solid black;
+    
     
 }
 
