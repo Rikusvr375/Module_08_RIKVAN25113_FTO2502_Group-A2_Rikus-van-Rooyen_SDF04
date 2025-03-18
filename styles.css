@@ -1,3 +1,22 @@
-footer {
+.container {
+    padding: 48px 24px 48px 24px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.footer {
     background-color: #659f8f;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    
+}
+
+.image {
+    width: auto;
+    height: 28px;
 }
